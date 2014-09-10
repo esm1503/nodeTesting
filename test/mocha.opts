@@ -1,0 +1,6 @@
+--require
+--colors
+--check-leaks
+--ui bdd
+--reporter nyan
+
